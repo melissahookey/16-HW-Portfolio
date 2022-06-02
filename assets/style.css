@@ -1,0 +1,95 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background-color: aliceblue;
+
+}
+
+nav {
+    background-color: lightskyblue;
+}
+
+.logo-image{
+    width: 46px;
+    height: 46px;
+    overflow: hidden;
+    margin-top: -6px;
+}
+
+h1 {
+    font-size: 14px;
+    color: black;
+}
+
+h2 {
+    font-size: 20px;
+    color: darkcyan;
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 28px;
+    color:darkcyan;
+}
+
+h4 {
+    font-size: 18px;
+    color: black;
+}
+
+#line3 {
+    font-size: 24px;
+    color: lightseagreen
+}
+
+p {
+    font-size: 14px;
+    color: black;
+}
+
+#contact-list {
+    list-style-type: none;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+}
+
+.row {
+    padding: 2rem 0;
+    border-bottom: 2px solid black;
+
+}
+
+.about {
+    /* margin-top: 1rem; */
+    border-top: 2px solid black;
+
+}
+
+#about-bio {
+    margin-top: 0;
+}
+
+.profileimg-container {
+
+}
+
+#description-1 {
+    padding: 2rem;
+}
+
+#description-2 {
+    padding: 2rem;
+}
+
+#description-3 {
+    padding: 2rem;
+}
+
+.contact {
+    padding-top: 2rem;
+}
