@@ -13,9 +13,11 @@
   
   ## Screenshots
   <!-- add images -->
-  ![screenshot of portfolio](/assets/images/.png) 
-  ![screenshot of portfolio](/assets/images/.png) 
-  ![screenshot of portfolio](/assets/images/.png) 
+  ![screenshot of portfolio](/assets/images/1.png) 
+  ![screenshot of portfolio](/assets/images/2.png) 
+  ![screenshot of portfolio](/assets/images/3.png) 
+  ![screenshot of portfolio](/assets/images/4.png) 
+  ![screenshot of portfolio](/assets/images/5.png)
   
   ## Contact
   * Find me on GitHub: melissahookey
